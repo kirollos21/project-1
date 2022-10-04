@@ -1,0 +1,20 @@
+.fact{
+font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+}
+
+div{
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+#all{
+    width: 310px;
+}
